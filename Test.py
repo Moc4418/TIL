@@ -1,1 +1,3 @@
-print(int(1.2))
+word=input()
+n=int(input())
+print(word[n-1])
